@@ -1,5 +1,5 @@
 # heanabrowser-bin
-# Navegador desenvolvido para suporte aos Sistemas MV - Suportar o Flashão Véio. 
+# Navegador desenvolvido para suporte aos Sistemas MV / Projeto SES - Suportar o Flashão Véio. 
 
 Observações Importantes: Para o funcionamento do utilitário las(utilitário MV - mvupdate) é necessário a instalação do Oracle Java. A versão OpenJDK/JRE não funciona devido a ausência do utilitário(bin) que permite a instalação de aplicativo Install4J. Instalando a versão da Oracle, funcionará/executará independente do sistema operacional.
 
