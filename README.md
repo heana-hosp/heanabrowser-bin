@@ -5,10 +5,10 @@ Observações Importantes: Para o funcionamento do utilitário las(utilitário M
 
 
 Windows 
-:link: [Download Instalador](https://github.com/heana-hosp/heanabrowser-bin/releases/download/HEANA/HEANABrowser-win32-x64.zip) (316 MB) 
+:link: [Download ZIP](https://github.com/heana-hosp/heanabrowser-bin/releases/download/HEANA/HEANABrowser-win32-x64.zip) (316 MB) 
 
 Linux (tested on Ubuntu/Debian)
-:link: [Download Instalador](https://github.com/heana-hosp/heanabrowser-bin/releases/download/HEANA/HEANABrowser-linux-x64.zip) (160 MB) 
+:link: [Download ZIP](https://github.com/heana-hosp/heanabrowser-bin/releases/download/HEANA/HEANABrowser-linux-x64.zip) (160 MB) 
 
 MacOS(darwin) - Fase de teste
 
