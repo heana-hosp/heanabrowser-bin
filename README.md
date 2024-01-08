@@ -12,4 +12,4 @@ MacOS - Fase de teste.
 Linux (tested on Ubuntu/Debian)
 :link: [Download Installer](https://github.com/heana-hosp/heanabrowser-bin/releases/download/HEANA/HEANABrowser-linux-x64.zip) (160 MB) 
 
-Versões deb/rpm apenas no repositório privado. Requer várias validações, portanto, não disponíveis no repositório aberto. 
+Versões deb/rpm/dmg apenas no repositório privado. Requer várias validações, portanto, não disponíveis no repositório aberto. 
