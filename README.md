@@ -17,7 +17,7 @@ MacOS(darwin) - Fase de teste
 
 # Outras considerações:
 
-- No Windows 11 costuma aparece a mensagem do Smarth Screen criticando "Fornecedor desconhecido" e pode ser ignorado pela primeira vez. Necessário certificados e etc, que não é o nosso caso e necessidade. 
+- No Windows 11 costuma aparece a mensagem do Smarth Screen criticando "Fornecedor desconhecido" e pode ser ignorado pela primeira vez. Necessário certificados e etc, que não é o nosso caso e necessidade. O problema ocorre quando o arquivo fica disponível para download(ativa flag), porém, no ambiente interno da unidade não ocorre o problema. 
 
 - Versões deb/rpm/dmg apenas no repositório privado. Requer várias validações, portanto, não disponíveis no repositório aberto. 
 
