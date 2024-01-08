@@ -17,6 +17,8 @@ MacOS(darwin) - Fase de teste
 
 # Outras considerações:
 
+- No Windows 11 costuma aparece a mensagem do Smarth Screen criticando "Fornecedor desconhecido" e pode ser ignorado pela primeira vez. Necessário certificados e etc, que não é o nosso caso e necessidade. 
+
 - Versões deb/rpm/dmg apenas no repositório privado. Requer várias validações, portanto, não disponíveis no repositório aberto. 
 
 - Sabe-se que a emissão de relatório no Gestor de Fluxo não funciona - Devido a invocação de um método defasado win.getWebContents(deprecated no electron) mas não impossível de implementar. Não temos urgência ou necessidade de inserir essa função no momento, talvez em necessidades futuras. 
