@@ -27,13 +27,13 @@ MacOS(darwin) - Fase de teste
 
 Versão Debian:
 
-<a href="https://youtu.be/MT5WmscDlZU" target="_blank">
- <img src="https://i9.ytimg.com/vi_webp/MT5WmscDlZU/mq3.webp?sqp=CITdyq0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACygWKAgwIABABGC8gWShyMA8=&rs=AOn4CLCe3lZGs8LyTlcrkBxIRf1P137iJQ" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+[![HEANA Browser Debian](https://i9.ytimg.com/vi_webp/MT5WmscDlZU/mq3.webp?sqp=CITdyq0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACygWKAgwIABABGC8gWShyMA8=&rs=AOn4CLCe3lZGs8LyTlcrkBxIRf1P137iJQ)](https://youtu.be/MT5WmscDlZU "HEANA Browser Debian")
+
+
+
 
 Versão MacOS Sonoma:
 
-<a href="https://youtu.be/sa7r9XR_pgQ" target="_blank">
- <img src="https://i9.ytimg.com/vi_webp/sa7r9XR_pgQ/mq2.webp?sqp=CITdyq0G-oaymwEmCMACELQB8quKqQMa8AEB-AGCB4AC0AWKAgwIABABGDIgVShyMA8=&rs=AOn4CLB9sYd2OpeEVU4Dv89mLx8uBGYN_w" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+[![HEANA Browser MacOS Sonoma](https://i9.ytimg.com/vi_webp/sa7r9XR_pgQ/mq2.webp?sqp=CITdyq0G-oaymwEmCMACELQB8quKqQMa8AEB-AGCB4AC0AWKAgwIABABGDIgVShyMA8=&rs=AOn4CLB9sYd2OpeEVU4Dv89mLx8uBGYN_w)](https://youtu.be/sa7r9XR_pgQ "HEANA Browser Mac OS Sonoma")
+
 
