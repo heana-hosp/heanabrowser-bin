@@ -25,14 +25,12 @@ MacOS(darwin) - Fase de teste
 
 # Demonstração de Uso
 
-Versão Debian:
+Versão Debian  - Clique na Imagem para ver o Vídeo:
 
-[![HEANA Browser Debian](https://i9.ytimg.com/vi_webp/MT5WmscDlZU/mq3.webp?sqp=CITdyq0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACygWKAgwIABABGC8gWShyMA8=&rs=AOn4CLCe3lZGs8LyTlcrkBxIRf1P137iJQ)](https://youtu.be/MT5WmscDlZU "HEANA Browser Debian")
-
-
+[![HEANA Browser Debian](https://github.com/heana-hosp/heanabrowser-bin/assets/5917784/e83bbe9f-ea74-4a01-b7d8-271826a60afe)](https://youtu.be/MT5WmscDlZU "HEANA Browser Debian")
 
 
-Versão MacOS Sonoma:
+Versão MacOS Sonoma - Clique na Imagem para ver o Vídeo:
 
 [![HEANA Browser MacOS Sonoma](https://github.com/heana-hosp/heanabrowser-bin/assets/5917784/6f4a2ae2-0b2a-499c-9891-1640ea8d2fcd)](https://youtu.be/sa7r9XR_pgQ "HEANA Browser Mac OS Sonoma")
 
