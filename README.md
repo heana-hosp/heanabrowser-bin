@@ -12,16 +12,19 @@ Linux (tested on Ubuntu/Debian)
 
 MacOS(darwin) - Fase de teste
 
+
+
+# Considerações Importantes:
+
 - Consideração importante sobre a versão Linux: Ao descompactar a pasta, necessário atribuir à estrutura de pasta(chown) a mesma permissão do usuário comum(readme.txt/leiame.txt dentro do arquivo compactado - recomenda-se instalar na pasta padrão home). Não use como root. No linux há um mecanismo de proteção que não permite executar a sandbox do chrome(engine a qual o electron é baseado), protegendo a nível de SUID/GUID, evitando que o navegador execute arquivos que não tem permissão e também não renderize as páginas web. Essas tratativas de permissões são necessárias nos pacotes deb/rpm por instalar na estrutura do do sistema operacional como root, porém, não é o caso destes arquivos neste repositório. 
-
-
-# Outras considerações:
 
 - No Windows 11 costuma aparece a mensagem do Smarth Screen criticando "Fornecedor desconhecido" e pode ser ignorado pela primeira vez. Necessário certificados e etc, que não é o nosso caso e necessidade. O problema ocorre quando o arquivo fica disponível para download(ativa flag), porém, no ambiente interno da unidade não ocorre o problema. 
 
 - Versões deb/rpm/dmg apenas no repositório privado. Requer várias validações, portanto, não disponíveis no repositório aberto. 
 
 - Sabe-se que a emissão de relatório no Gestor de Fluxo não funciona - Devido a invocação de um método defasado win.getWebContents(deprecated no electron) mas não impossível de implementar. Não temos urgência ou necessidade de inserir essa função no momento, talvez em necessidades futuras. 
+
+- Versão MacOS validada no Sonoma. Não disponibilizaremos a versão MacOS(demonstrado no vídeo abaixo) pois requer adaptação do utilitário las(jars) para tratar o sistema operacional MacOS. O código pertence a MV, por isso não disponibilizaremos ou orientaremos sobre resolver esta situação
 
 # Demonstração de Uso
 
